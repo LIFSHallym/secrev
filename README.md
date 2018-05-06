@@ -1,4 +1,4 @@
-<style>#downloads {hidden: true;}</style>
+<style>#downloads {display: none;}</style>
 # Welcome to the revolution
 The Cybersecurity Revolution is a global, 24 hour, online conference focusing on ways to improve global cybersecurity.
 
