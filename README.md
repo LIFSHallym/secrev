@@ -16,11 +16,10 @@ SecRev will take place on 2018-05-31 for 24 hours. The schedule in UTC can be fo
 
 <div class='embed-container'><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfBFDg2p4lP5pa1VyWdFUzjkkT2XUxaE4wJQ81iL-ZNbRROAE55yh7MAgGqydmtuQBn2wklmVW6cbl/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe></div>
 
-
 ## <a name="streams"></a>Streams
 Each presenter can choose the stream they wish to use. To help viewers, we will collect and embed streams or their links here with a list of times the streams will be live.
 
-* 2018-06-01 05:00 to 08:00
+* 2018-06-01 05:00 to 08:00UTC
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_6UVOnDfb5w' frameborder='0' allowfullscreen></iframe></div>
 
 # <a name="orgs"></a>Organizations
