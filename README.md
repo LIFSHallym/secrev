@@ -1,6 +1,6 @@
 <style>#downloads {display: none;}</style>
 
-[Schedule](schedule) | [Streams](#streams) | [Organizations](#orgs)
+[Schedule](#schedule) | [Streams](#streams) | [Organizations](#orgs)
 {: style="color:gray; font-size: 90%; text-align: center;"}
 
 # Welcome to the revolution
@@ -20,7 +20,16 @@ SecRev will take place on 2018-05-31 for 24 hours. The schedule in UTC can be fo
 ## <a name="streams"></a>Streams
 Each presenter can choose the stream they wish to use. To help viewers, we will collect and embed streams or their links here with a list of times the streams will be live.
 
-* UTC+9
+* 2018-06-01 05:00 to 08:00
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_6UVOnDfb5w' frameborder='0' allowfullscreen></iframe></div>
 
 # <a name="orgs"></a>Organizations
+1. [The CyberAcademy at Napier University](http://thecyberacademy.org/bigdata2018/)
+2. [Canadian Institute for Cybersecurity at the University of New Brunswick](http://www.unb.ca/cic/)
+3. [Université de Montréal](umontreal.ca)
+4. [L'Université du Québec à Montréal](uqam.ca)
+5. [Universidad EAN](https://universidadean.edu.co/es)
+6. [LIFS@Hallym University](https://global.hallym.ac.kr)
+7. [Université de Lausanne](www.unil.ch)
+8. [Cybersecurity Research Centre, The Hebrew University of Jerusalem](http://csrcl.huji.ac.il)
+9. [VU/NSCR/the Hague](www.vu.nl)
