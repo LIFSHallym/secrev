@@ -1,7 +1,7 @@
 <style>#downloads {display: none;}</style>
 
-(Schedule)[#schedule] | (Streams)[#streams] | (Organizations)[#orgs]
-{: style="color:gray; font-size: 80%; text-align: center;"}
+[Schedule](schedule) | [Streams](#streams) | [Organizations](#orgs)
+{: style="color:gray; font-size: 90%; text-align: center;"}
 
 # Welcome to the revolution
 The Cybersecurity Revolution is a global, 24 hour, online conference focusing on ways to improve global cybersecurity.
