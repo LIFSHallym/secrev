@@ -1,10 +1,10 @@
 <style>#downloads {display: none;}</style>
 
-[Schedule](#schedule) | [Streams](#streams) | [Organizations](#orgs)
+[Schedule](#schedule) | [Streams](#streams) | [Participants](#orgs)
 {: style="color:gray; font-size: 90%; text-align: center;"}
 
 # Welcome to the revolution
-The Cybersecurity Revolution is a global, 24 hour, online conference focusing on ways to improve global cybersecurity.
+The Cybersecurity Revolution is an event conceived to openly encourage sharing and interaction among the wider cybersecurity research community. It is an event focused around research, education, science and learning and not the furthering of commercial interests. The presentations can include information about research centers and their objectives, achievements, agendas and roadmaps; overviews and deep dives into past and present research themes and studies; graduate students and their research; discussions related to the theme.  Presentations must promote education and sharing across the research community and commit to elevate accuracy, precision, and specificity in sciences related to cybersecurity. Presentations which promote a commercial product, company, entity or service or formulated for commercial benefit will not be included as part of the event.
 
 ## Why a global, online conference?
 Cybersecurity practitioners and researchers are spread across the world. Getting everyone together is time-consuming and costly. This conference is a first effort to bring together the best in cybersecurity to share ideas using the power of the Internet.
