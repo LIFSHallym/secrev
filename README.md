@@ -1,6 +1,6 @@
 <style>#downloads {display: none;}</style>
 
-[Schedule](#schedule) | [Streams](#streams) | [Participants](#orgs)
+[Schedule](#schedule) | [Streams](#streams) | [Presenter Information](#pinfo)
 {: style="color:gray; font-size: 90%; text-align: center;"}
 
 # Welcome to the revolution
@@ -19,16 +19,20 @@ SecRev will take place on 2018-05-31 for 24 hours. The schedule in UTC can be fo
 ## <a name="streams"></a>Streams
 Each presenter can choose the stream they wish to use. To help viewers, we will collect and embed streams or their links here with a list of times the streams will be live.
 
-* 2018-06-01 05:00 to 08:00UTC
+* 2018-05-31 08:00 to 16:00UTC - The CyberAcademy at Napier University
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/TKRbIZmfCq8' frameborder='0' allowfullscreen></iframe></div>
+
+* 2018-06-01 04:00 to 07:00UTC - Hallym University
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_6UVOnDfb5w' frameborder='0' allowfullscreen></iframe></div>
 
-# <a name="orgs"></a>Organizations
-1. [The CyberAcademy at Napier University](http://thecyberacademy.org/bigdata2018/)
-2. [Canadian Institute for Cybersecurity at the University of New Brunswick](http://www.unb.ca/cic/)
-3. [Université de Montréal](umontreal.ca)
-4. [L'Université du Québec à Montréal](uqam.ca)
-5. [Universidad EAN](https://universidadean.edu.co/es)
-6. [LIFS@Hallym University](https://global.hallym.ac.kr)
-7. [Université de Lausanne](www.unil.ch)
-8. [Cybersecurity Research Centre, The Hebrew University of Jerusalem](http://csrcl.huji.ac.il)
-9. [VU/NSCR/the Hague](www.vu.nl)
+# <a name="pinfo"></a>Presenter Information
+
+## How to set up a stream on Youtube
+To set up a stream, you need a mic, a webcam and a stream encoder. The easiest way to start streaming on Youtube is with Google Chrome browser.
+A video on how to stream using Chrome can be found here:
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/Sr4HmJ-HOGs' frameborder='0' allowfullscreen></iframe></div>
+
+If you have multiple video sources, you may want to use [Open Broadcaster Software](https://obsproject.com/) instead. A video on how to stream to Youtube using OSB can be found here:
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/_pAqVe-Ckgs' frameborder='0' allowfullscreen></iframe></div>
+
+For presenters, please send your stream link to the SecRev organizers as soon as possible.
