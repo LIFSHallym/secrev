@@ -1,6 +1,6 @@
 <style>#downloads {display: none;}</style>
 
-[Schedule](#schedule) | [Streams](#streams) | [Presenter Information](#pinfo)
+[Schedule](#schedule) | [Streams](#streams) | [Presenter Information](#pinfo) | [Who Are We](#who)
 {: style="color:gray; font-size: 90%; text-align: center;"}
 
 # Welcome to the revolution
@@ -20,10 +20,22 @@ SecRev will take place on 2018-05-31 for 24 hours. The schedule in UTC can be fo
 Each presenter can choose the stream they wish to use. To help viewers, we will collect and embed streams or their links here with a list of times the streams will be live.
 
 * 2018-05-31 08:00 to 16:00UTC - The CyberAcademy at Napier University
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/TKRbIZmfCq8' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/thecyberacademy/live' frameborder='0' allowfullscreen></iframe></div>
 
-* 2018-06-01 04:00 to 07:00UTC - Hallym University
+* 2018-05-31 15:00 to 18:00UTC - Université de Montréal
+<div class='embed-container'><iframe src='https://www.youtube.com/c/SmartCybersecurityNetworkSERENERISCMontr%C3%A9al/live' frameborder='0' allowfullscreen></iframe></div>
+
+* 2018-05-31 19:00 to 21:00UTC - Universidad EAN
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=xi9b41CjE6I' frameborder='0' allowfullscreen></iframe></div>
+
+* 2018-05-31 21:00 to 23:00UTC - Alberta Council of Technologies, DKS DATA Consulting Group, University of Calgary/ Redigo Advanced Systems Inc
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=wdO_Eyis5eU' frameborder='0' allowfullscreen></iframe></div>
+
+* 2018-06-01 04:00 to 07:00UTC - Legal Informatics and Forensic Science Institute, Hallym University
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_6UVOnDfb5w' frameborder='0' allowfullscreen></iframe></div>
+
+* 2018-06-01 04:00 to 07:00UTC - Cybersecurity Research Centre, The Hebrew University of Jerusalem
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=_msEpMkNX-I' frameborder='0' allowfullscreen></iframe></div>
 
 # <a name="pinfo"></a>Presenter Information
 
@@ -36,3 +48,8 @@ If you have multiple video sources, you may want to use [Open Broadcaster Softwa
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_pAqVe-Ckgs' frameborder='0' allowfullscreen></iframe></div>
 
 For presenters, please send your stream link to the SecRev organizers as soon as possible.
+
+# <a name="who"></a>Who are we?
+The Security Revolution conference is the brainchild of the [SERENE-RISC](www.serene-risc.ca) group, and specifically Michael Joyce, at the [Université de Montréal](http://umontreal.ca). Support is provided by the [Legal Informaitics and Forensic Science Institute](https://global.hallym.ac.kr) at Hallym University.
+
+Our goal is to help reduce the cost of sharing information security research with a global audience. We hope to run similar events in the future. If you are interested, please contact us.    
