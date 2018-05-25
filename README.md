@@ -20,24 +20,26 @@ SecRev will take place on 2018-05-31 for 24 hours. The schedule in UTC can be fo
 Each presenter can choose the stream they wish to use. To help viewers, we will collect and embed streams or their links here with a list of times the streams will be live.
 
 * 2018-05-31 08:00 to 16:00UTC - The CyberAcademy at Napier University
-<div class='embed-container'><iframe src='https://www.youtube.com/thecyberacademy/live' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/TKRbIZmfCq8' frameborder='0' allowfullscreen></iframe></div>
 
 * 2018-05-31 15:00 to 18:00UTC - Université de Montréal
-<div class='embed-container'><iframe src='https://www.youtube.com/c/SmartCybersecurityNetworkSERENERISCMontr%C3%A9al/live' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/R7sUoOV8TAg' frameborder='0' allowfullscreen></iframe></div>
 
 * 2018-05-31 19:00 to 21:00UTC - Universidad EAN
-<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=xi9b41CjE6I' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/xi9b41CjE6I' frameborder='0' allowfullscreen></iframe></div>
 
 * 2018-05-31 21:00 to 23:00UTC - Alberta Council of Technologies, DKS DATA Consulting Group, University of Calgary/ Redigo Advanced Systems Inc
-<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=wdO_Eyis5eU' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/wdO_Eyis5eU' frameborder='0' allowfullscreen></iframe></div>
 
 * 2018-06-01 04:00 to 07:00UTC - Legal Informatics and Forensic Science Institute, Hallym University
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/_6UVOnDfb5w' frameborder='0' allowfullscreen></iframe></div>
 
 * 2018-06-01 04:00 to 07:00UTC - Cybersecurity Research Centre, The Hebrew University of Jerusalem
-<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=_msEpMkNX-I' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/_msEpMkNX-I' frameborder='0' allowfullscreen></iframe></div>
 
 # <a name="pinfo"></a>Presenter Information
+
+
 
 ## How to set up a stream on Youtube
 To set up a stream, you need a mic, a webcam and a stream encoder. The easiest way to start streaming on Youtube is with Google Chrome browser.
